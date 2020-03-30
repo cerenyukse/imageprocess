@@ -11,7 +11,7 @@ from skimage import img_as_float
 
 
 #Kendi resmini yükleme ve bir değere atma
-img = io.imread("bonesu.jpeg")
+img = io.imread("COVID-197.jpg")
 plt.imshow(img, 'gray')
 
 # Contrast stretching ile process işlemi
