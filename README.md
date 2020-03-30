@@ -1,13 +1,12 @@
-# Image Process
+# Image Process of X-Ray Image
 Image Process of Coronavirus
 
 # Contrast stretching, Equalization, Adaptive Equalization Histogram equalization Image Process Çalışmaları
 
 ![WhatsApp Image 2020-03-24 at 19 44 45](https://user-images.githubusercontent.com/62892751/77930872-14fc9a00-72b4-11ea-9f2e-586c2e4d5b93.jpeg)
 
-# Covid19 Hasta Datası
+# Kullandığım Covid-19 Hasta Datasını bulabilirsiniz.
 
-![COVID-197](https://user-images.githubusercontent.com/62892751/77931724-39a54180-72b5-11ea-8c27-a359f8359ff3.jpg)
 
 # Low Contrast Görüntü
 
