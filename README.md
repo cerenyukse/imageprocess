@@ -1,5 +1,5 @@
 # Image Processing of X-Ray Image
-Image Process of Coronavirus
+Koronavirüsün Image Process işlemi. Bu işlem görüntüyü iyileştirmek ve CNN eğitimini iyileştirmek için kullanılabilir.
 
 # Contrast stretching, Equalization, Adaptive Equalization, Histogram equalization Image Processing Çalışmaları
 
